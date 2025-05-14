@@ -1,1 +1,1 @@
-# Project-one--Peer-Group-Analysis
+# Peer Group Analysis- This project was designed to showcase my ability to conduct detailed financial analysis using advanced Excel skills, including dynamic modelling, data validation, pivot tables, and complex formulas to extract meaningful insights.
